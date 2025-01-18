@@ -1,4 +1,3 @@
-
 local config = "eceprog"
 
 -- plugin setup
